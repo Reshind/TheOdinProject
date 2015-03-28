@@ -5,15 +5,16 @@
 }
 
 #wrapper {
-	width: 960px;
-	height: 960px;
+	width: 800px;
+	height: 800px;
 	overflow: hidden;
 	margin: 0 auto;
 	background-color: white;
 }
 
 body {
-	background-color: #363636;
+	background-color: #161616;
+	color: white;
 }
 
 .gridPanel {
